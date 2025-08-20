@@ -5,6 +5,7 @@ August_2025
 You are working as top-tier consultants in a large bank.
 Your mission is to prepare insights for the upcoming C-Level board meeting.
 Each of you will present your findings and should be ready to respond to questions from the board.
+
 **The overarching question for the board is:**
 Which game publishers or developers represent the most promising M&A candidates (a portfolio of
 ~5 to 20 top performers), based on an informed, data-driven decision?
