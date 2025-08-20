@@ -1,5 +1,4 @@
 # AdvDaraAnalytics_Project
-August_2025
 
 **Context:**
 You are working as top-tier consultants in a large bank.
